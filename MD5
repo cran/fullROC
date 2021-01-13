@@ -1,0 +1,17 @@
+42ff99f9d6f5f0e049e088d57e5d36f1 *DESCRIPTION
+9a9b2cccf77287970450f8fe92b873c8 *NAMESPACE
+35a9e15d6335463f0b03822e957a48f4 *R/adjust_id.R
+5be5cfb52398a9639f73134164a7f72f *R/auc_boot.R
+415b21ae02bc76862f2f2b93e7db3b45 *R/roc_auc.R
+7e41006f1cbc70f1fc6b264c724dfad2 *R/roc_plot.R
+ad97b7169bec8b5f2d694931e2fdd128 *R/simu_data.R
+7aab45b54b63f18810422a3a8180b441 *build/partial.rdb
+4a3323d05dc506d68c2d6085c9b19d19 *man/auc_boot.Rd
+3b8f3ef0da7c1415634bf4301dbc070a *man/auc_ci.Rd
+0d3b18e878468089f8835e80da97757e *man/id_adj.Rd
+49db968e18b5e2379c0383dd06faf802 *man/id_adj_name.Rd
+75895e1d6a16457a062560e793f631dd *man/id_adj_pos.Rd
+9fd70f409e71d2920d804d4f4f829fdf *man/response_calculate.Rd
+35df208fb553ceca7c8a554b177111d2 *man/response_simu.Rd
+7f1e50e5b5c8d6b14713fde5adebbb7d *man/roc_auc.Rd
+2097a2269c6af2d9ded632c25d049ea0 *man/roc_plot.Rd
